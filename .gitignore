@@ -1,0 +1,13 @@
+node_modules/
+sessions/
+temp/
+*.log
+.env
+data.json
+deploys.json
+deploy_id.txt
+servers.json
+# Runtime state and local credentials
+baileys_store.json
+data/*.json
+*.session
